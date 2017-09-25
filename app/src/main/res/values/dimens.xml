@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="descripcion_contacto">80dp</dimen>
+    <dimen name="fecha_nacimiento">160dp</dimen>
+    <dimen name="top">10dp</dimen>
+    <dimen name="botton">10dp</dimen>
+    <dimen name="left">8dp</dimen>
+    <dimen name="nombre_confirmar_datos">18sp</dimen>
+    <dimen name="confirmar_datos">16sp</dimen>
+</resources>
